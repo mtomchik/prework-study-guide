@@ -8,8 +8,6 @@ This is the Prework Study Guide for Matt prior to attending the coding bootcamp 
 - I hope that this project will help organize and provide a reference that I can refer back to throughout my coding journey
 - Throughout this project I have learned the basics of code and have gained basic kowledge of terminology
 
-## Table of Contents (Optional)
-
 ## Installation
 
 N/A
